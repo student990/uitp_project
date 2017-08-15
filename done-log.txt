@@ -27,6 +27,31 @@
 8. Belarusian to replace-team
 9. Feyenoord, Celtic, Huddersfield players rates
 
+21:50 15.08.2017
+
+1. Transfers
+2. Bolivian to replace-team
+3. Bulgarian to replace-team
+4. Croatian to replace-team
+5. Cyprusian to replace-team
+6. Czechian to replace-team
+7. Ecuadorean to replace-team
+8. Finnish to replace-team
+9. Georgian to replace-team
+10. Watford, AZ player rates
+
+=============================
+TODO:
+Belgian
+Brasilian
+Chilean
+Chinese
+Colombian
+Denmarks
+Egyptian
+English c
+
+
 =============================
 replace-team:
 	Bosnian
