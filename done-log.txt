@@ -40,6 +40,25 @@
 9. Georgian to replace-team
 10. Watford, AZ player rates
 
+22:39 19.08.2017
+
+1. Transfers
+2. Hungarian to replace-team
+3. Israeles to replace-team
+4. Macedonian to replace-team
+5. Moldovan to replace-team
+6. Qatarean to replace-team
+7. Romanian to replace-team
+8. Serbian to replace-team
+9. Uruguayan to replace-team
+10. Northirelandic to replace-team
+11. Welsh to replace-team
+12. Icelandic to replace-team
+13. Peruanese to replace-team
+14. New league - Bankrupts
+15. Added teams to Bankrupts
+
+
 =============================
 TODO:
 Belgian
@@ -50,6 +69,36 @@ Colombian
 Denmarks
 Egyptian
 English c
+Germanian
+Greek
+Indian
+Italian
+Japanese
+Korean
+Netherlandic
+Norwegian
+Paraguayan
+Russian
+Turkese
+Ukrainian
+Venezuelan
+Asian
+European
+Australian
+North American
+Endofcareer1
+Endofcareer2
+African
+Spanish
+Portugalese
+Irelandic
+Swedese
+Francois
+USAs
+Polish
+Scottish
+Swiss
+Mexican
 
 
 =============================
