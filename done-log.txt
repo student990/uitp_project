@@ -58,7 +58,11 @@
 14. New league - Bankrupts
 15. Added teams to Bankrupts
 
+19:36 20.08.2017
 
+1. Kits
+2. Transfers
+	
 =============================
 TODO:
 Belgian
@@ -105,3 +109,125 @@ Mexican
 replace-team:
 	Bosnian
 	Albanian
+=============================
+Kits:
+	
+	Aberdeen away
+	Aberdeen home
+	Aberdeen gk
+
+	AEK Athens away
+	AEK Athens home
+	AEK Athens gk
+	AEK Athens third
+
+	Anderlecht away
+
+	Arsenal away
+	Arsenal home
+	Arsenal third
+
+	Atletico M. away
+	Atletico M. home
+
+	Barcelona away
+	Barcelona gk
+
+	Bayern third
+
+	Bologna home
+
+	Borussia D third
+
+	Bournemouth home
+
+	Burnley home
+
+	Chelsea gk
+
+	Cruzeiro home
+	Cruzeiro away
+	Cruzeiro gk
+
+	Eintracht Fr. gk
+
+	Feyenoord away
+	Feyenoord home
+
+	Fiorentina home
+	Fiorentina away
+
+	Hoffenheim home
+
+	Huddersfield home
+
+	Inter home
+	Inter away
+	Inter gk
+	Inter third
+	
+	Juventus away
+	Juventus home
+	Juventus gk
+
+	Liverpool away
+
+	Malaga home
+
+	Man City gk
+	Man City away
+
+	Man Un	away
+	Man Un	home
+	Man Un	gk
+
+	Middlesbrough home
+	Middlesbrough away
+	Middlesbrough gk
+
+	Monaco away
+	Monaco home
+
+	Motherwell home
+	Motherwell away
+
+	Nice home
+	Nice away
+	Nice third
+
+	Oleksandria away
+	Oleksandria home
+	Oleksandria gk
+
+	Porto away
+	Porto home
+
+	PSG away
+
+	RB Leipzig away
+	RB Leipzig home
+
+	Real M.	away
+	Real M.	home
+	Real M.	gk
+	Real M.	third
+
+	Real S. away
+	Real S. home
+
+	River Plate away
+	River Plate home
+	River Plate third
+
+	Roma away
+
+	Schalke away
+
+	Sevilla away
+	Sevilla home
+	Sevilla gk
+	Sevilla third
+
+	Southampton home
+
+...
