@@ -62,6 +62,12 @@
 
 1. Kits
 2. Transfers
+
+21:53 21.08.2017
+
+1. Kits
+2. Transfers
+3. Cloned kits (San Luis->)
 	
 =============================
 TODO:
@@ -230,4 +236,33 @@ Kits:
 
 	Southampton home
 
-...
+	St. Johnstone away
+	St. Johnstone home
+	St. Johnstone gk
+
+	Stoke home
+
+	Stuttgart home
+
+	Tottenham away
+	Tottenham home
+	Tottenham gk
+
+	Valencia away
+
+	Watford home
+
+	West Brom away
+	West Brom home
+	West Brom gk
+
+	Werder away
+	Werder home
+
+	West Ham away
+
+	Wolfsburg away
+	Wolfsburg home
+
+	Young Boys away
+	Young Boys home
