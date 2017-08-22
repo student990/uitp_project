@@ -67,7 +67,13 @@
 
 1. Kits
 2. Transfers
-3. Cloned kits (San Luis->)
+3. Cloned kits
+
+21:53 22.08.2017
+
+1. Kits (->Salernitana)
+2. Transfers
+
 	
 =============================
 TODO:
@@ -149,13 +155,25 @@ Kits:
 
 	Burnley home
 
+	Cadiz away
+	Cadiz home
+	Cadiz gk
+
 	Chelsea gk
 
 	Cruzeiro home
 	Cruzeiro away
 	Cruzeiro gk
 
+	Deportes Temuco away
+	Deportes Temuco home
+	Deportes Temuco gk
+
 	Eintracht Fr. gk
+
+	Everton Vina away
+	Everton Vina home
+	Everton Vina gk
 
 	Feyenoord away
 	Feyenoord home
@@ -163,9 +181,17 @@ Kits:
 	Fiorentina home
 	Fiorentina away
 
+	Gimnastic T. away
+	Gimnastic T. home
+	Gimnastic T. gk
+
 	Hoffenheim home
 
 	Huddersfield home
+
+	Huesca SD away
+	Huesca SD home
+	Huesca SD gk
 
 	Inter home
 	Inter away
@@ -227,6 +253,10 @@ Kits:
 
 	Roma away
 
+	San Luis away
+	San Luis home
+	San Luis gk
+
 	Schalke away
 
 	Sevilla away
@@ -236,9 +266,21 @@ Kits:
 
 	Southampton home
 
+	SPAL away
+	SPAL home
+	SPAL gk
+
+	Spezia away
+	Spezia home
+	Spezia gk
+
 	St. Johnstone away
 	St. Johnstone home
 	St. Johnstone gk
+
+	Stade Reims away
+	Stade Reims home
+	Stade Reims gk
 
 	Stoke home
 
