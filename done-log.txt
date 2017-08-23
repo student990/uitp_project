@@ -71,9 +71,13 @@
 
 21:53 22.08.2017
 
-1. Kits (->Salernitana)
+1. Kits
 2. Transfers
 
+22:29 23.08.2017
+
+1. Kits (->Ufa)
+2. Transfers
 	
 =============================
 TODO:
@@ -142,10 +146,26 @@ Kits:
 	Atletico M. away
 	Atletico M. home
 
+	Atletico Tucuman away
+	Atletico Tucuman home
+	Atletico Tucuman gk
+
+	Azerbaijan away
+	Azerbaijan home
+	Azerbaijan gk
+
+	Banfield away
+	Banfield home
+	Banfield gk
+
 	Barcelona away
 	Barcelona gk
 
 	Bayern third
+
+	Benevento away
+	Benevento home
+	Benevento gk
 
 	Bologna home
 
@@ -164,6 +184,10 @@ Kits:
 	Cruzeiro home
 	Cruzeiro away
 	Cruzeiro gk
+
+	Defensa away
+	Defensa home
+	Defensa gk
 
 	Deportes Temuco away
 	Deportes Temuco home
@@ -188,6 +212,10 @@ Kits:
 	Hoffenheim home
 
 	Huddersfield home
+
+	Huracan away
+	Huracan home
+	Huracan gk
 
 	Huesca SD away
 	Huesca SD home
@@ -231,6 +259,14 @@ Kits:
 	Oleksandria home
 	Oleksandria gk
 
+	Olimpo away
+	Olimpo home
+	Olimpo gk
+
+	Patronato away
+	Patronato home
+	Patronato gk
+
 	Porto away
 	Porto home
 
@@ -253,9 +289,17 @@ Kits:
 
 	Roma away
 
+	Salernitana away
+	Salernitana home
+	Salernitana gk
+
 	San Luis away
 	San Luis home
 	San Luis gk
+
+	San Martin away
+	San Martin home
+	San Martin gk
 
 	Schalke away
 
@@ -286,11 +330,27 @@ Kits:
 
 	Stuttgart home
 
+	Talleres away
+	Talleres home
+	Talleres gk
+
+	Temperley away
+	Temperley home
+	Temperley gk
+
 	Tottenham away
 	Tottenham home
 	Tottenham gk
 
+	Union SF away
+	Union SF home
+	Union SF gk
+
 	Valencia away
+
+	Vorskla away
+	Vorskla home
+	Vorskla gk
 
 	Watford home
 
@@ -308,3 +368,6 @@ Kits:
 
 	Young Boys away
 	Young Boys home
+
+	Zirka away
+	Zirka home
