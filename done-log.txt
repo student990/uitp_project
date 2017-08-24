@@ -76,8 +76,16 @@
 
 22:29 23.08.2017
 
-1. Kits (->Ufa)
+1. Kits
 2. Transfers
+
+22:31 24.08.2017
+
+1. Kits
+2. Transfers
+3. Players to replace team
+4. Milan numbers
+5. Replaced players
 	
 =============================
 TODO:
@@ -123,7 +131,10 @@ Mexican
 
 =============================
 replace-team:
-	Bosnian
+	Armenian
+
+	Ensure:
+	Bosnian		
 	Albanian
 =============================
 Kits:
@@ -209,6 +220,10 @@ Kits:
 	Gimnastic T. home
 	Gimnastic T. gk
 
+	Hearts away
+	Hearts home
+	Hearts gk
+
 	Hoffenheim home
 
 	Huddersfield home
@@ -230,6 +245,18 @@ Kits:
 	Juventus home
 	Juventus gk
 
+	Kairat away
+	Kairat home
+	Kairat gk
+	Kairat third
+
+	Karpaty away
+	Karpaty home
+	Karpaty gk
+	Karpaty third
+
+	Kuban gk
+
 	Liverpool away
 
 	Malaga home
@@ -245,15 +272,27 @@ Kits:
 	Middlesbrough away
 	Middlesbrough gk
 
+	Milan away
+	Milan home
+	Milan gk
+
 	Monaco away
 	Monaco home
 
 	Motherwell home
 	Motherwell away
 
+	Nantes away
+	Nantes home
+	Nantes gk
+
 	Nice home
 	Nice away
 	Nice third
+
+	Novara away
+	Novara home
+	Novara gk
 
 	Oleksandria away
 	Oleksandria home
@@ -262,6 +301,10 @@ Kits:
 	Olimpo away
 	Olimpo home
 	Olimpo gk
+
+	Orlando City away
+	Orlando City home
+	Orlando City gk
 
 	Patronato away
 	Patronato home
@@ -289,6 +332,10 @@ Kits:
 
 	Roma away
 
+	Rostov away
+	Rostov home
+	Rostov gk
+
 	Salernitana away
 	Salernitana home
 	Salernitana gk
@@ -302,6 +349,10 @@ Kits:
 	San Martin gk
 
 	Schalke away
+
+	seneghal away
+	seneghal home
+	seneghal gk
 
 	Sevilla away
 	Sevilla home
@@ -326,6 +377,10 @@ Kits:
 	Stade Reims home
 	Stade Reims gk
 
+	Stal away
+	Stal home
+	Stal gk
+
 	Stoke home
 
 	Stuttgart home
@@ -338,9 +393,21 @@ Kits:
 	Temperley home
 	Temperley gk
 
+	Tondela away
+	Tondela home
+	Tondela gk
+
 	Tottenham away
 	Tottenham home
 	Tottenham gk
+
+	Tunisia away
+	Tunisia home
+	Tunisia gk
+
+	Ufa away
+	Ufa home
+	Ufa gk
 
 	Union SF away
 	Union SF home
