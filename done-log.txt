@@ -87,6 +87,12 @@
 4. Milan numbers
 5. Replaced players
 	
+22:09 25.08.2017
+
+1. Kits
+2. Transfers
+3. Replaced players
+
 =============================
 TODO:
 Belgian
@@ -153,6 +159,7 @@ Kits:
 	Arsenal away
 	Arsenal home
 	Arsenal third
+	Arsenal gk
 
 	Atletico M. away
 	Atletico M. home
@@ -254,6 +261,8 @@ Kits:
 	Karpaty home
 	Karpaty gk
 	Karpaty third
+
+	Krasnodar gk
 
 	Kuban gk
 
