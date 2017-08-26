@@ -93,6 +93,12 @@
 2. Transfers
 3. Replaced players
 
+21:05 26.08.2017
+
+1. Transfers
+2. Players to replace team
+3. NT squads
+
 =============================
 TODO:
 Belgian
@@ -142,6 +148,22 @@ replace-team:
 	Ensure:
 	Bosnian		
 	Albanian
+=============================
+NT squads:
+	Korea Republic
+	England
+	Austria
+	Belgium
+	Bulgaria
+	Czech
+	Denmark
+	Finland
+	Moldova
+	Macedonia
+	France
+	Germany
+	Greece
+	
 =============================
 Kits:
 	
