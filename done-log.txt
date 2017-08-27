@@ -99,6 +99,12 @@
 2. Players to replace team
 3. NT squads
 
+21:46 27.08.2017
+
+1. Transfers
+2. NT squads
+
+
 =============================
 TODO:
 Belgian
@@ -149,7 +155,7 @@ replace-team:
 	Bosnian		
 	Albanian
 =============================
-NT squads:
+NT pre-squads:
 	Korea Republic
 	England
 	Austria
@@ -163,6 +169,64 @@ NT squads:
 	France
 	Germany
 	Greece
+	Italy
+	Norway
+	Poland
+	Portugal
+	Ireland
+	Romania
+	Russia
+	Scotland
+	Slovenia
+	Spain
+	Sweden
+	Switzerland
+	Turkey
+	Wales
+	Argentina
+	Brazil
+	Paraguay
+	Uruguay
+	Mexico
+	usa
+	Cameroon
+	Australia
+	Hungary
+	Netherlands
+	N.Ireland
+	S.Africa
+	Peru
+	Colombia
+	C.dIvoire
+	Egypt
+	Bolivia
+	Chile
+	Ecuador
+	India
+	N.Zealand
+	Venezuela
+	Ukraine
+	Albania
+	Andorra
+	Armenia
+	Azerbaijan
+	Belarus
+	Bosnia
+	Croatia
+	Cyprus
+	Estonia
+	Faroe
+	Georgia
+	Gibraltar
+	Iceland
+	Israel
+	Kazakhstan
+	Latvia
+	Liechtenstein
+	Lithuania
+	Luxembourg
+	Malta
+	
 	
 =============================
 Kits:
