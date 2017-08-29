@@ -109,6 +109,11 @@
 1. Transfers
 2. NT squads
 
+21:54 29.08.2017
+
+1. Transfers
+2. NT squads
+
 =============================
 TODO:
 Belgian
@@ -237,7 +242,19 @@ NT pre-squads:
 	Algeria
 	Angola
 	Ghana
-
+	Morocco
+	Nigeria
+	Senegal
+	Togo
+	Tunisia
+	China
+	Iran
+	Japan
+	S.Arabia
+	Canada
+	Costa Rica
+	Honduras
+	Kosovo
 	
 =============================
 Kits:
