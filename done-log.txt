@@ -123,6 +123,12 @@
 
 1. Transfers
 
+21:51 02.09.2017
+
+1. Transfers
+2. Replace team
+3. Replaced players
+
 =============================
 TODO:
 Belgian
@@ -167,9 +173,10 @@ Mexican
 
 =============================
 replace-team:
-	Armenian
+	Austrian
 
 	Ensure:
+	Armenian
 	Bosnian		
 	Albanian
 =============================
