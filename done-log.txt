@@ -206,7 +206,7 @@ Mexican
 
 =============================
 replace-team:
-	Austrian
+	Austrian (unreplaceable left)
 
 	Ensure:
 	Armenian
